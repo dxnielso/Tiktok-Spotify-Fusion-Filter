@@ -1,0 +1,20 @@
+[
+  {
+    "guid": {
+      "a": "3e7a06b0-59c4-81cc-890c-4417869fa6b6",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "alfredo-olivas",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "TextureSequence",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "premultiplyAlpha": false
+  }
+]

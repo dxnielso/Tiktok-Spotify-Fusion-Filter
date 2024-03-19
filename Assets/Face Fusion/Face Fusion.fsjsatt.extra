@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "69dfb716-2253-97b3-ecea-d9c6507c61d2",
+      "b": ""
+    },
+    "extraType": "JSAssetFaceFusionTextureTT",
+    "name": "Face Fusion",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "ScreenRenderTexture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

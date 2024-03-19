@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "4247bc61-3d4f-1bb9-0107-edcf6ecec550",
+      "b": ""
+    },
+    "extraType": "JSAssetAnimSequence",
+    "name": "artistas",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]
